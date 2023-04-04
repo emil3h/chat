@@ -1,0 +1,75 @@
+body {
+    background-color: #3a3b3e; 
+}
+
+.wrapper {
+    max-width: 700px; /* the wrapper will be no larger than this amount */
+    margin: 0 auto;
+    background: #5b5e63;
+    font-size: 1.4em;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+}
+
+h1 {
+    margin-top: 5px;
+    padding: 10px;
+    color: white;
+    background-color: #432f84;
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+    color: white;
+    text-align: center;
+    display: block;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 80%;
+}
+
+
+p#demo {
+    color: white;
+    font-size: 100px;
+}
+
+.MYbutton {
+    background-color:#432f84;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 20px;
+    width: 230px;
+    text-decoration: none;
+    margin: auto;
+    margin-bottom: 20px;
+
+    font-family: 'Roboto Condensed', sans-serif;
+    display: block;
+}
+
+.MYbutton:hover {
+    border: solid;
+    border-color: white;
+    color: #ffffff;
+}
+
+.edit {
+text-align: center;
+    color: white;
+/*color: #5b5e63;*/
+display: block;
+text-decoration: none;
+font-size: 20px;
+}
+
+.edit:hover {
+    color: black;
+}
