@@ -35,6 +35,7 @@ p {
 p#demo {
     color: white;
     font-size: 100px;
+    text-align: center;
 }
 
 .MYbutton {
